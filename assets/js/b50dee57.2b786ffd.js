@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkmir_docs=self.webpackChunkmir_docs||[]).push([[773],{9724:s=>{s.exports=JSON.parse('{"label":"facebook","permalink":"/docs/blog/tags/facebook","allTagsPath":"/docs/blog/tags","count":1}')}}]);
